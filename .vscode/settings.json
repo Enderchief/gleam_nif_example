@@ -1,0 +1,23 @@
+{
+	"files.associations": {
+		"*.json.liquid": "json",
+		"*.yaml.liquid": "yaml",
+		"*.md.liquid": "markdown",
+		"*.js.liquid": "liquid-javascript",
+		"*.css.liquid": "liquid-css",
+		"*.scss.liquid": "liquid-scss",
+		"*.svg": "xml",
+		"add.c": "cpp",
+		"atomic": "c",
+		"*.tcc": "c",
+		"chrono": "c",
+		"compare": "c",
+		"optional": "c",
+		"future": "c",
+		"numeric": "c",
+		"sstream": "c",
+		"cmath": "c",
+		"erl_nif.h": "c",
+		"add.h": "c"
+	}
+}
